@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說淨業障經
+#+DATE: 2015-08-30 20:44:34.308751
+#+PROPERTY: JUAN 0
